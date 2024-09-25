@@ -1,0 +1,5 @@
+/.idea
+/llm-chat-app-1/.next
+
+/llm-chat-app-1/node_modules/
+/llm-chat-app-1/package-lock.json
